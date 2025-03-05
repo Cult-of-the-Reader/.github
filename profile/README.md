@@ -5,6 +5,8 @@ https://cult-of-the-reader-rueo.onrender.com/
 
 Server Page (with example):
 https://cult-of-the-reader.onrender.com/api/v1/books
+
+Web Page deployed with Render, backend Web Service using MongoDB Atlas and MySQL (aiven.io) and for the client Static Site, Vite
 <!--
 
 **Here are some ideas to get you started:**
