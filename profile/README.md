@@ -7,6 +7,10 @@ A full-stack bookstore application built as a final project for the Professional
 - **Main Page**: [https://cult-of-the-reader-rueo.onrender.com/](https://cult-of-the-reader-rueo.onrender.com/)
 - **API Documentation**: [https://cult-of-the-reader.onrender.com/api-docs](https://cult-of-the-reader.onrender.com/api-docs)
 
+---
+
+*Note: Due to the free tier limitations on Render, the application may take a moment to load initially.*
+
 ## Project Overview
 
 Cult Of The Reader is a complete bookstore application with user authentication, product catalog, shopping cart functionality, and user reviews.
@@ -74,7 +78,3 @@ The project includes:
 ## Acknowledgements
 
 Development supervised by Davinia de La Rosa as part of the Professional Certificate in Web Application Development (IFCD0210).
-
----
-
-*Note: Due to the free tier limitations on Render, the application may take a moment to load initially.*
