@@ -4,9 +4,9 @@ A full-stack bookstore application built as a final project for the Professional
 
 ## Live Demo
 
-- **Main Page**: [https://cult-of-the-reader-rueo.onrender.com/](https://cult-of-the-reader-rueo.onrender.com/)
-- **API Documentation**: [https://cult-of-the-reader.onrender.com/api-docs](https://cult-of-the-reader.onrender.com/api-docs)
 
+- **API Documentation**: [https://cult-of-the-reader.onrender.com/api-docs](https://cult-of-the-reader.onrender.com/api-docs)
+- **Main Page**: [https://cultofthereader.vercel.app/](https://cultofthereader.vercel.app/)
 ---
 
 *Note: Due to the free tier limitations on Render, the application may take a moment to load initially.*
