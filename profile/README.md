@@ -3,7 +3,7 @@
 A full-stack bookstore application built as a final project for the Professional Certificate in Web Application Development (IFCD0210).
 
 ## Live Demo
-
+*Press the middle mouse button/mouse wheel button for open in a new tab*
 
 - **API Documentation**: [https://cult-of-the-reader.onrender.com/api-docs](https://cult-of-the-reader.onrender.com/api-docs)
 - **Main Page**: [https://cultofthereader.vercel.app/](https://cultofthereader.vercel.app/)
