@@ -1,4 +1,4 @@
-# Cult Of The Reader
+# Cult Of The Reader - D E P R E C A T E D / O F F L I N E
 
 A full-stack bookstore application built as a final project for the Professional Certificate in Web Application Development (IFCD0210).
 
